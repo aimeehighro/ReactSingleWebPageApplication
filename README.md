@@ -1,5 +1,8 @@
-![GitHub Logo](src/images/logo.png)
-Format: ![Alt Text](url)
+![Home Page](src/images/home_page.png)
+![Services Page](src/images/service_page.png)
+![Work Page](src/images/work_page.png)
+![Contact Page](src/images/contact_page.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
