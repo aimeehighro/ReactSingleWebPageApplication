@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](src/images/logo.png)
 Format: ![Alt Text](url)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
